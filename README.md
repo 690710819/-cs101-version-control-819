@@ -1,7 +1,7 @@
 # My CS Profile
 
 ## About Me
-- Name: Gam
+- Name: Kanlaya Chumyen
 - Major: Computer Science
 
 ## My Learning Goals
