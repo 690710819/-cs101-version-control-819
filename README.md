@@ -8,3 +8,7 @@
 - Learn Python programming
 - Learn Git and GitHub
 - Build a personal website
+
+## Technology Interests
+- image generator
+- Game Development
