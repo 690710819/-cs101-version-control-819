@@ -12,3 +12,6 @@
 ## Technology Interests
 - image generator
 - Game Development
+
+## Skills
+- coding
