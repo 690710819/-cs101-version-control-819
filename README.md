@@ -1,1 +1,5 @@
-# -cs101-version-control-819
+# My CS Profile
+
+## About Me
+- Name: Gam
+- Major: Computer Science
