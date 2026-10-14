@@ -4,6 +4,10 @@
 - Name: Kanlaya Chumyen
 - Major: Computer Science
 
+## Technology Interests
+- image generator
+- Game Development
+
 ## My Learning Goals
 - Learn Python programming
 - Learn Git and GitHub
